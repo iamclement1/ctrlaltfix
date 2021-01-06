@@ -208,6 +208,9 @@ footer {
     padding-bottom: 20px;
   }
 
+  header nav li {
+    padding: 0%;
+  }
   #showcase h1 {
     margin: 40px;
   }
