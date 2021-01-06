@@ -25,6 +25,7 @@ ul {
   border: none;
   padding: 0 20px 0 20px;
   color: #fff;
+  border-radius: 5px;
 }
 
 .dark {
@@ -190,7 +191,7 @@ footer {
 }
 
 /* Media Queries */
-@media (max-width: 767.98px) {
+@media (max-width: 768px) {
   header #branding,
   header nav,
   header nav li,
@@ -208,9 +209,9 @@ footer {
     padding-bottom: 20px;
   }
 
-  header nav li {
+  /* header nav li {
     padding: 0%;
-  }
+  } */
   #showcase h1 {
     margin: 40px;
   }
